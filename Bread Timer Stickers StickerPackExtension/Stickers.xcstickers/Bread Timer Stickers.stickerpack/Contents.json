@@ -1,0 +1,47 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "FreshBread.sticker"
+    },
+    {
+      "filename" : "BreadBrain.sticker"
+    },
+    {
+      "filename" : "Bowl.sticker"
+    },
+    {
+      "filename" : "BreadLove.sticker"
+    },
+    {
+      "filename" : "Mixer.sticker"
+    },
+    {
+      "filename" : "OhCrumbs.sticker"
+    },
+    {
+      "filename" : "OMGBaking.sticker"
+    },
+    {
+      "filename" : "Potholder.sticker"
+    },
+    {
+      "filename" : "Sifter.sticker"
+    },
+    {
+      "filename" : "TimeToBake.sticker"
+    },
+    {
+      "filename" : "Toast.sticker"
+    },
+    {
+      "filename" : "Yeast.sticker"
+    }
+  ]
+}
